@@ -11,7 +11,7 @@
 
  <!--SOBRE MI-->
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí:
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 - 👨‍💻 Soy **Francisco Bruno**, desarrollador **Full Stack** con más de **3 años de experiencia laboral** en el rubro.
 - 🎓 Actualmente finalizando la carrera de **Técnico Superior en Desarrollo de Software**.
 - 🛠️ Trabajo con una variedad de tecnologías frontend y backend, aplicando buenas prácticas y metodologías ágiles.
