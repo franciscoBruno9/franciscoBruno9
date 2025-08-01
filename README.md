@@ -15,8 +15,8 @@
 - 👨‍💻 Soy **Francisco Bruno**, desarrollador **Full Stack** con más de **3 años de experiencia laboral** en el rubro.
 - 🎓 Actualmente finalizando la carrera de **Técnico Superior en Desarrollo de Software**.
 - 🛠️ Trabajo con una variedad de tecnologías frontend y backend, aplicando buenas prácticas y metodologías ágiles.
-- 📚 Me apasiona el **aprendizaje continuo** y disfruto enfrentar desafíos que me permitan crecer y evolucionar profesionalmente.
-- 🚀 Mi objetivo es aportar valor real en cada proyecto, desde la idea hasta su implementación, buscando siempre la **excelencia técnica y funcional**.
+- 📚 Me enfoco en el **aprendizaje continuo** y disfruto enfrentar desafíos que me permitan crecer y evolucionar profesionalmente.
+- 🚀 Mi objetivo es aportar valor real en cada proyecto que participe, desde el lugar que me toque.
 - 🤝 Siempre abierto a colaborar en proyectos, compartir conocimientos y seguir aprendiendo con la comunidad.
 <br>
 
